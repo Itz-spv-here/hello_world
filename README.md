@@ -2,4 +2,4 @@
 blah blah blah
 
 
-This is a sample hello--world in GitHuub
+This is a sample hello-world in GitHuub
